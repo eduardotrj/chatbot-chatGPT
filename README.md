@@ -1,2 +1,0 @@
-# chatbot-chatGPT
-Chatbot app
